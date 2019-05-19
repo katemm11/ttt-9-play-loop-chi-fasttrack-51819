@@ -2,7 +2,7 @@
 
 def play(board)
   counter = 0
-  until 
+  until counter == 9
 
 
 def display_board(board)
