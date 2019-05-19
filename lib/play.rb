@@ -3,6 +3,9 @@
 def play(board)
   counter = 0
   until counter == 8
+  puts 
+end
+end
 
 
 def display_board(board)
